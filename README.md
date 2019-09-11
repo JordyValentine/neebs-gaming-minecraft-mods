@@ -40,7 +40,7 @@ A list of mods used in the Neebs Gaming 2019 Minecraft series
 
 - **SEUS (Sonic Ether’s Unbelievable Shaders)** - [Website](https://sonicether.com/seus/) 
 
-**SEUS PTGI** is a paid mod available through the developer Patreon
+**SEUS PTGI** is a paid mod available through the developers Patreon.
 
 A free version named **SEUS Renewed** is availabe [here](https://sonicether.com/seus/#Downloads), though it may not work as well, I can't say for sure as I haven't tested it yet.
 
