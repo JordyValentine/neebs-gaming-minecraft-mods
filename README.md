@@ -2,8 +2,6 @@
 
 A list of mods used in the Neebs Gaming 2019 Minecraft series
 
----
-
 ## World Info
 
 ![World Info](images/world-info.png)
