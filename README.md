@@ -2,6 +2,14 @@
 
 A list of mods used in the Neebs Gaming 2019 Minecraft series
 
+- Table of contents
+  * [World Info](#world-info)
+  * [Mods](#mods)
+  * [Resource/Texture Pack](#resource-texture-pack)
+  * [Shader](#shader)
+  * [Alternative Shaders](#alternative-shaders)
+  * [Contributing](#contributing)
+
 ## World Info
 
 ![World Info](images/world-info.png)
