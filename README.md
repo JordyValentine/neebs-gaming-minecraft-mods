@@ -6,19 +6,13 @@ A list of mods used in the Neebs Gaming 2019 Minecraft series
 
 ![World Info](images/world-info.png)
 
-
-
 - **Minecraft version:** `1.14.4`
 
 - **World seed:** `4647294665657212242`
 
-
-
 ## Mods
 
 ![Mods](images/mod-list.png)
-
-
 
 - **Fabric API** - [Download](https://fabricmc.net/use/) - [Documentation](https://fabricmc.net/wiki/install) - [Website](https://fabricmc.net)
 
@@ -30,13 +24,15 @@ A list of mods used in the Neebs Gaming 2019 Minecraft series
 
 - **ReplayMod (*optional*)** - [Download](https://www.replaymod.com/download/) - [Documentation](https://www.replaymod.com/docs/) - [Website](https://www.replaymod.com/)
 
+## Resource/Texture Pack
 
+![Resource Pack](images/resource-pack.png)
+
+- **Vanilla PBR** - [CurseForge](https://www.curseforge.com/minecraft/texture-packs/vanilla-pbr)
 
 ## Shader
 
 ![Shader](images/shader.png)
-
-
 
 - **SEUS (Sonic Ether’s Unbelievable Shaders)** - [Website](https://sonicether.com/seus/) 
 
@@ -44,13 +40,15 @@ A list of mods used in the Neebs Gaming 2019 Minecraft series
 
 A free version named **SEUS Renewed** is availabe [here](https://sonicether.com/seus/#Downloads), though it may not work as well, I can't say for sure as I haven't tested it yet.
 
-## Resource/Texture Pack
+## Alternative Shaders
 
-![Resource Pack](images/resource-pack.png)
+Since **SEUS PTGI** is not free and is also quite resource heavy, here are some alternatives for those with lower end computers or who can't/don't want to pay for a Minecraft mod.
 
+- [Sildur's Shaders](https://sildurs-shaders.github.io/) - **Sildur's Shaders** look really nice and run well on low end hardware. There is also an Enhanced Default version that's less vivid but still looks really nice while keeping the Minecraft asthetic.
 
+- [Chocapic13's Shaders](https://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293898-chocapic13s-shaders) - **Chocapic13's Shaders** aim for a high quality/performance ratio on a wide range of hardware. There's bunch of versions so you should be able to find one that works for you.
 
-- **Vanilla PBR** - [CurseForge](https://www.curseforge.com/minecraft/texture-packs/vanilla-pbr) 
+- [Vanilla Plus Shaders](https://www.curseforge.com/minecraft/customization/vanilla-plus-shader) - **Vanilla Plus Shaders** (as the name suggests) improves the standard shaders and adds dynamic shadows and better clouds. There are a few versions, the "SE" Edition is made to look like Seus v08 (the Neebs series uses Seus v09 making this a good alternative) and the "CE" Edition is styled to look like Chocapic13's shaders.
 
 ## Contributing
 
